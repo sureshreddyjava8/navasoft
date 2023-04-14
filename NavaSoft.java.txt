@@ -1,0 +1,7 @@
+class NavaSoft
+{
+ public static void main(String args[])
+ {
+  System.out.println("Hello NavaSoftware....How are you....Pleae welcome");
+ }
+}
